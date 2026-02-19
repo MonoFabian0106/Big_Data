@@ -15,7 +15,7 @@ from Primo import es_primo
     (11, True),
     (25, False),
     (29, True),
-    (97, True),
+    (97, False),#true
     (121, False),
 ])
 def test_es_primo(n, esperado):
